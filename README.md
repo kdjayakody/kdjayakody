@@ -50,11 +50,20 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdjayakody&theme=radical" alt="GitHub Streak" />
 </div>
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=kdjayakody&repo=KDJ-Vision&theme=radical)](https://github.com/kdjayakody/KDJ-Vision)  
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=kdjayakody&repo=Sinhala-Typing-App&theme=radical)](https://github.com/kdjayakody/Sinhala-Typing-App)
+
+</div>
+
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kdjayakody%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdjayakody@example.com)  
+[![Email](https://img.shields.io/badge/Email-kdj@kdj.lk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdj@kdj.lk)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kdjayakody/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kdjayakody/)
 
