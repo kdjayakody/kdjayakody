@@ -50,15 +50,6 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdjayakody&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=kdjayakody&repo=KDJ-Vision&theme=radical)](https://github.com/kdjayakody/KDJ-Vision)  
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=kdjayakody&repo=Sinhala-Typing-App&theme=radical)](https://github.com/kdjayakody/Sinhala-Typing-App)
-
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
